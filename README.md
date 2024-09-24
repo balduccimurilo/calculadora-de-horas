@@ -1,43 +1,50 @@
-Calculadora de Horas
-Uma aplicação em React que calcula a data e hora futuras com base em uma hora inicial e um intervalo de tempo em horas, minutos e segundos.
+# Calculadora de Horas
 
-Descrição
-A Calculadora de Horas permite que você insira uma hora inicial e um intervalo de tempo para calcular a data e hora resultantes. A aplicação possui um design simples, com a opção de alternar entre temas claro e escuro.
+Uma aplicação em **React** que calcula a data e hora futuras com base em uma hora inicial e um intervalo de tempo em horas, minutos e segundos.
 
-Funcionalidades
-Hora Inicial: Insira a hora inicial usando um seletor de tempo.
-Intervalo de Tempo: Adicione horas, minutos e segundos como intervalo.
-Cálculo: Clique em "Calcular" para ver a data e hora resultantes.
-Tema: Alterne entre temas claro e escuro para uma melhor experiência visual.
-Como Executar
-Clone o repositório:
+## Descrição
 
-bash
-Copy code
-git clone https://github.com/seu-usuario/calculadora-de-horas.git
-Instale as dependências:
+A **Calculadora de Horas** permite que você insira uma hora inicial e um intervalo de tempo para calcular a data e hora resultantes. A aplicação possui um design simples, com a opção de alternar entre temas claro e escuro.
 
-bash
-Copy code
-cd calculadora-de-horas
-npm install
-Inicie a aplicação:
+## Funcionalidades
 
-bash
-Copy code
-npm start
-Acesse no navegador:
+- **Hora Inicial**: Insira a hora inicial usando um seletor de tempo.
+- **Intervalo de Tempo**: Adicione horas, minutos e segundos como intervalo.
+- **Cálculo**: Clique em "Calcular" para ver a data e hora resultantes.
+- **Tema**: Alterne entre temas claro e escuro para uma melhor experiência visual.
 
-Abra http://localhost:3000 para usar a aplicação.
+## Como Executar
 
-Tecnologias Utilizadas
-React
-CSS
-React Icons
+1. Clone o repositório:
 
-Contato
-Autor: Murilo Balducci
-GitHub: github.com/balduccimurilo
+    ```bash
+    git clone https://github.com/seu-usuario/calculadora-de-horas.git
+    ```
 
+2. Instale as dependências:
 
+    ```bash
+    cd calculadora-de-horas
+    npm install
+    ```
 
+3. Inicie a aplicação:
+
+    ```bash
+    npm start
+    ```
+
+4. Acesse no navegador:
+
+    Abra [http://localhost:3000](http://localhost:3000) para usar a aplicação.
+
+## Tecnologias Utilizadas
+
+- React
+- CSS
+- React Icons
+
+## Contato
+
+**Autor**: Murilo Balducci  
+**GitHub**: [github.com/balduccimurilo](https://github.com/balduccimurilo)
